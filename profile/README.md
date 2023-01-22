@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+GitHub templates for aggressive expansion. Includes:
+
+* GitHub
+  * [Actions](https://github.com/features/actions)
+  * [Codespaces](https://github.com/features/codespaces)
+* [Code of Conduct](https://www.contributor-covenant.org/)
+* [MIT Open Source License](https://opensource.org/licenses/MIT)
+
 <!--
 
 **Here are some ideas to get you started:**
